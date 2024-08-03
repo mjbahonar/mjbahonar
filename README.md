@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi. I'm Mohammad Javad Bahonar 👋
+
+I am a civil engineer, with a focus on numerical methods development for structural engineering, and  machine learning. I am interested in code development for numerical programming. I have accomplished numerous projects over my experiences, where I have written thousands of lines of code in Python, C/C++, C#, MATLAB, etc.
+
+Some of my skills are:
+* Programming Language: Python, C#, C++, Java, PHP
+* Mathematical Software: MATLAB, Mathematica
+* Operating Systems: Linux, Windows
+* Engineering Software: AutoCAD, ETABS, SAFE, ABAQUS, MS Project
+* Tools and Frameworks: scikit-learn (Machine Learning), deal.II (Deep Learning) - SQL Server
 
 <!--
 **mjbahonar/mjbahonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
